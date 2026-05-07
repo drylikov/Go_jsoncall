@@ -4,4 +4,3 @@ Pretty niche pkg for invoking a function or method via JSON parameters.
 
 ---
 
-
